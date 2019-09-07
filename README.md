@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/synergy-tpc/Demo-SpaceGame2/_apis/build/status/osmodies.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/synergy-tpc/Demo-SpaceGame2/_build/latest?definitionId=43&branchName=master)
 
 # Contributing
 
