@@ -29,3 +29,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-osmodies&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-osmodies)
