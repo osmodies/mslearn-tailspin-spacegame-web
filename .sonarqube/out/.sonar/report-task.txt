@@ -1,0 +1,7 @@
+organization=osmodies
+projectKey=space-game-web-osmodies
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3982
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-osmodies
+ceTaskId=AW-SKWODZYWTJRLfhAkI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-SKWODZYWTJRLfhAkI
